@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ensdomains/eth-ens-namehash#readme",
   "devDependencies": {
+    "@adraffy/ens-normalize": "^1.6.1",
     "@rollup/plugin-commonjs": "^20.0.0",
     "@rollup/plugin-node-resolve": "^13.0.5",
     "idna-uts46-hx": "^3.4.0",
